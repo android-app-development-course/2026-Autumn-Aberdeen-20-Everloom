@@ -101,10 +101,7 @@ Full assumptions and the source list are in Appendix A of the plan.
 |---|---|
 | v1 | 14-slide deck |
 | v2 | Added the technical feasibility slide; type sizes increased throughout |
-| v3 | Chinese read-aloud scripts added to every slide's notes |
 | **v4** | **Current** — custom backgrounds (navy cover, warm paper interior, gradient close) |
-
-The plan has two editions: English (v1.0) and Chinese (same content, same figures).
 
 ## Academic use
 
@@ -115,7 +112,7 @@ The assignment brief is course material and remains the property of its author; 
 ## Author
 
 <!-- Replace with your name, student ID and course code before publishing. -->
-**Prepared by:** _your name_
+**Prepared by:** QIANJIN WANG
 **Course:** Mobile App Development — Phase 1
 **Date:** October 2026
 
