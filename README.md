@@ -39,10 +39,8 @@ This repository contains the complete written plan (in English and Chinese) and 
 |---|---|
 | [Everloom App Business Plan.docx](Everloom%20App%20Business%20Plan.docx) | Full business plan, English, 31 pages, A4, 39 numbered tables and 3 figures |
 | [Everloom App Business Plan.md](Everloom%20App%20Business%20Plan.md) | The same plan as GitHub-flavoured Markdown (figures resolve from `assets/`) |
-| [Everloom 商业计划书（中文版）.docx](Everloom%20商业计划书（中文版）.docx) | Chinese edition of the plan, identical structure and figures |
 | [Everloom - Phase 1 Presentation v4.pptx](Everloom%20-%20Phase%201%20Presentation%20v4.pptx) | 15-slide deck, 16:9, with bilingual speaker notes (English script + Chinese read-aloud) |
 | [assets/](assets) | Cover image and the three charts used by the Markdown version |
-| [The tasks of the first phase.docx](The%20tasks%20of%20the%20first%20phase.docx) | The course brief this work responds to (instructor material, included for traceability) |
 
 ## What the plan covers
 
