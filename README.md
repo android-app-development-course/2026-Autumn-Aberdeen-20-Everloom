@@ -4,8 +4,6 @@
 
 Phase 1 deliverable for a *Mobile App Development* course: topic selection, product definition, positioning, market analysis, go-to-market plan, unit economics, and a pre-build validation programme — together with the presentation used to defend it.
 
-![Everloom — Phase 1 cover](assets/cover.jpg)
-
 ---
 
 ## Overview
